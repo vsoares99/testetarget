@@ -1,0 +1,28 @@
+Cenário 1:
+- Se ao entrar na sala 1, a lâmpada estiver ligada, volto, desligo o interruptor 1 e vou até a sala 3. 
+
+-- Se a lâmpada da sala 3 estiver ligada: 
+---Interruptor 1 controla a lâmpada da sala 1;
+---Interruptor 2 controla a lâmpada da sala 2;
+---Interruptor 3 controla a lâmpada da sala 3.
+
+-- Se a lâmpada da sala 3 estiver desligada:
+---Interruptor 1 controla a lâmpada da sala 3;
+---Interruptor 2 controla a lâmpada da sala 2;
+---Interruptor 3 controla a lâmpada da sala 1.
+
+Cenário 2:
+- Se ao entrar na sala 1, a lâmpada estiver desligada: 
+--Interruptor 2 controla a lâmpada da sala 1.
+ 
+- Volto, desligo o interruptor 3 e vou na sala 2.
+
+-- Se a lâmpada da sala 2 estiver desligada:
+---Interruptor 1 controla lâmpada da sala 3;
+---Interruptor 2 controla a lâmpada da sala 1;
+---Interruptor 3 controla lâmpada da sala 2.
+
+-- Se a lâmpada da sala 2 estiver ligada:
+---Inturruptor 1 controla a lâmpada da sala 2;
+---Interruptor 2 controla a lâmpada da sala 1;
+---Interruptor 3 controla a lâmpada da sala 3.
