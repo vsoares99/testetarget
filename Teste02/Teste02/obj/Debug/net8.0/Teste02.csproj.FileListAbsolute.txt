@@ -1,0 +1,15 @@
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\bin\Debug\net8.0\Teste02.exe
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\bin\Debug\net8.0\Teste02.deps.json
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\bin\Debug\net8.0\Teste02.runtimeconfig.json
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\bin\Debug\net8.0\Teste02.dll
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\bin\Debug\net8.0\Teste02.pdb
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.AssemblyInfo.cs
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.sourcelink.json
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.dll
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\refint\Teste02.dll
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.pdb
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\Teste02.genruntimeconfig.cache
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste02\Teste02\obj\Debug\net8.0\ref\Teste02.dll
