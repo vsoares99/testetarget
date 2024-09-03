@@ -25,6 +25,6 @@ Cenário 2:
 ---Interruptor 3 controla lâmpada da sala 2.
 
 -- Se a lâmpada da sala 2 estiver ligada:
----Inturruptor 1 controla a lâmpada da sala 2;
+---Interruptor 1 controla a lâmpada da sala 2;
 ---Interruptor 2 controla a lâmpada da sala 1;
 ---Interruptor 3 controla a lâmpada da sala 3.
