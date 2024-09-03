@@ -1,3 +1,5 @@
+Ligo os interruptores 1 e 3. Vou até a sala 1 e posso me deparar com 2 cenários diferentes.
+
 Cenário 1:
 - Se ao entrar na sala 1, a lâmpada estiver ligada, volto, desligo o interruptor 1 e vou até a sala 3. 
 
