@@ -1,0 +1,14 @@
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\bin\Debug\net8.0\Teste01.exe
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\bin\Debug\net8.0\Teste01.deps.json
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\bin\Debug\net8.0\Teste01.runtimeconfig.json
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\bin\Debug\net8.0\Teste01.dll
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\bin\Debug\net8.0\Teste01.pdb
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\Teste01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\Teste01.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\Teste01.AssemblyInfo.cs
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\Teste01.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\Teste01.dll
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\refint\Teste01.dll
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\Teste01.pdb
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\Teste01.genruntimeconfig.cache
+C:\Users\Victor\Documents\AulasC#\Teste Técnico Target\Teste01\Teste01\obj\Debug\net8.0\ref\Teste01.dll
